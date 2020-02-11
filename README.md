@@ -21,3 +21,8 @@ Purpose: The goal of the program is to find all the possible prices from the des
 5. Type in the items you would like to search and be compared to
 6. Pick the store you would like to buy from.
 7. After you finish shoping, checkout by confirming if you are done or not. 
+
+# Other information
+1. The name of the files is "Mail" with different versions. 
+2. The final version with everything working will be in the "ship" folder.
+3. Documentation, flowchart, and a picture of working code will be under the "Write up and Documentaiton" folder. 
