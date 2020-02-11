@@ -1,8 +1,8 @@
 # CIS-18-Final-Project
 
-Created by: Paul T. \n
-Date of Creation: Feburary 11, 2020
-Project Description: Create a program that for a type of small business. 
+Created by: Paul T.  
+Date of Creation: Feburary 11, 2020  
+Project Description: Create a program that for a type of small business.   
 Purpose: The goal of the program is to find all the possible prices from the designated stores and display the amount for the customer to pick and choose where they would want to buy the item from. 
 
 # Compiling the Program on Notepad
