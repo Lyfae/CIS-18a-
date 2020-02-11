@@ -10,7 +10,7 @@ Purpose: The goal of the program is to find all the possible prices from the des
 2. Open the command prompt
 3. Type - cd desktop
 4. Type - javac ship/Mailv5.java ship/Info.java
-5. Type - java ship.Mail
+5. Type - java ship.Mail  
 (Program will begin to run)
 
 # Manuvering in the Program
